@@ -62,4 +62,4 @@ public class TestScene : JellyBehaviour
 ```
 
 ### Licensing
-This project is under the [*GPL V3* license](license.md).
+This project is under the [*GPL V3* license](LICENSE.md).
